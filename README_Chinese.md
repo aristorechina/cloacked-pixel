@@ -78,7 +78,7 @@ Language: [English](README.md) | **简体中文**
 
     $ python lsb.py analyse castle.jpg-stego.png
 
-[隐写图像分析](images/analysis-stego.png)
+![隐写图像分析](images/analysis-stego.png)
 
 注意事项
 -----
