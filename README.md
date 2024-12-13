@@ -4,6 +4,8 @@
 cloacked-pixel
 ==========
 
+Language: **English** | [简体中文](README_Chinese.md)
+
 Platform independent Python tool to implement LSB image steganography and a basic detection technique. Features:
 
  - Encrypt data before insertion.
@@ -89,3 +91,8 @@ Notes
  - It is entirely possible to have images with the mean of LSBs already very close to 0.5. In this case, this method will produce false positives.
  - More elaborate theoretical methods also exist, mostly based on statistics. However, false positives and false negatives cannot be completely eliminated.
 
+New Additions
+-------------
+
+1. The README file has been updated with a Chinese translation (provided by AI).
+2. Full support for Python 3 has been successfully implemented.
