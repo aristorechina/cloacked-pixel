@@ -1,5 +1,4 @@
-[logo](images/logo.png)
-
+![logo](images/logo.png)
 
 cloacked-pixel
 ==========
@@ -42,11 +41,11 @@ Language: [English](README.md) | **简体中文**
 
 原始图像：
 
-[原始图像](images/orig.jpg)
+![原始图像](images/orig.jpg)
 
 包含75k压缩包的图像：
 
-[嵌入的压缩包](images/stego.jpg)
+![嵌入的压缩包](images/stego.jpg)
 
 提取
 -------
@@ -67,13 +66,13 @@ Language: [English](README.md) | **简体中文**
 
 **示例**
 
-[城堡](images/castle.jpg)
+![城堡](images/castle.jpg)
 
 现在让我们分析原始图像：
 
     $ python lsb.py analyse castle.jpg
 
-[原始图像分析](images/analysis-orig.png)
+![原始图像分析](images/analysis-orig.png)
 
 … 现在分析包含我们有效载荷的图像：
 
